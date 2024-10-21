@@ -1,10 +1,7 @@
 # Implementing-Convolutional-Neural-Networks-from-Scratch
 
 
-Memory updated
-Here's a concise README for your GitHub repository:
-
-Homework 2 Part 1: Convolutional Neural Networks
+Convolutional Neural Networks
 Overview
 This project implements a Convolutional Neural Network (CNN) from scratch using Numpy, without using any deep learning libraries like PyTorch or TensorFlow. The focus is on understanding the fundamentals of CNNs, including forward and backward propagation through convolutional, pooling, and resampling layers.
 
